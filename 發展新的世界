@@ -1,0 +1,7 @@
+echo "# Hallo_world" >> READMI
+    init
+    add  README_md
+    commit -m "改變 創新 commit"
+    brach -m main
+    remote add origin https://www.github.com
+    Push -u origin main
